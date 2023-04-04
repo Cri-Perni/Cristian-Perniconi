@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate frontend developer from italy</h3>
 - 🔭 I’m currently working on [FindMe](https://github.com/WarLock-0/findme)
 
 - 🌱 I’m currently learning **Flutter**
